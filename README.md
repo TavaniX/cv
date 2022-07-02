@@ -1,2 +1,2 @@
 # cv
-my curriculum vitae
+published at https://tavanix.github.io/cv/
